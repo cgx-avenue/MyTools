@@ -1,0 +1,206 @@
+发现重复文件：
+
+文件名: Z30_2047.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2047.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2047.NEF
+
+文件名: Z30_2064.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2064.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2064.NEF
+
+文件名: Z30_2070.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2070.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2070.NEF
+
+文件名: Z30_2104.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2104.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2104.NEF
+
+文件名: Z30_2105.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2105.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2105.NEF
+
+文件名: Z30_2110.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2110.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2110.NEF
+
+文件名: Z30_2113.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2113.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2113.NEF
+
+文件名: Z30_2128.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2128.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2128.NEF
+
+文件名: Z30_2134.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2134.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2134.NEF
+
+文件名: Z30_2139.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2139.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2139.NEF
+
+文件名: Z30_2140.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2140.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2140.NEF
+
+文件名: Z30_2152.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2152.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2152.NEF
+
+文件名: Z30_2154.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2154.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2154.NEF
+
+文件名: Z30_2157.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2157.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2157.NEF
+
+文件名: Z30_2199.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2199.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2199.NEF
+
+文件名: Z30_2516.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2516.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2516.NEF
+
+文件名: Z30_2518.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2518.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2518.NEF
+
+文件名: Z30_2522.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2522.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2522.NEF
+
+文件名: Z30_2524.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2524.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2524.NEF
+
+文件名: Z30_2554.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2554.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2554.NEF
+
+文件名: Z30_2577.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2577.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2577.NEF
+
+文件名: Z30_2578.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2578.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2578.NEF
+
+文件名: Z30_2580.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2580.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2580.NEF
+
+文件名: Z30_2686.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2686.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2686.NEF
+
+文件名: Z30_2708.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2708.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2708.NEF
+
+文件名: Z30_2724.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2724.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2724.NEF
+
+文件名: Z30_2736.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2736.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2736.NEF
+
+文件名: Z30_2738.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2738.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2738.NEF
+
+文件名: Z30_2739.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2739.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2739.NEF
+
+文件名: Z30_2741.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2741.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2741.NEF
+
+文件名: Z30_2743.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2743.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2743.NEF
+
+文件名: Z30_2749.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2749.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2749.NEF
+
+文件名: Z30_2757.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2757.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2757.NEF
+
+文件名: Z30_2762.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2762.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2762.NEF
+
+文件名: Z30_2768.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2768.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2768.NEF
+
+文件名: Z30_2779.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2779.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2779.NEF
+
+文件名: Z30_2783.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2783.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2783.NEF
+
+文件名: Z30_2787.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2787.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2787.NEF
+
+文件名: Z30_2791.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2791.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2791.NEF
+
+文件名: Z30_2795.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2795.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2795.NEF
+
+文件名: Z30_2796.NEF
+重复路径：
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/135NZ_30/Z30_2796.NEF
+  - /mnt/c/Users/ysp/Qsync/00_Photos/Nikon_Z30/temp_250101/Z30_2796.NEF

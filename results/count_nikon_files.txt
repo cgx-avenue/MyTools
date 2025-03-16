@@ -1,0 +1,9 @@
+子文件夹文件数量统计（仅.NEF和.JPG）：
+.ecloud: {'NEF': 0, 'JPG': 0} 个文件
+100NZ_30: {'NEF': 0, 'JPG': 1154} 个文件
+135NZ_30: {'NEF': 96, 'JPG': 0} 个文件
+lr: {'NEF': 0, 'JPG': 24} 个文件
+mov: {'NEF': 0, 'JPG': 0} 个文件
+nef: {'NEF': 1804, 'JPG': 0} 个文件
+temp_250101: {'NEF': 152, 'JPG': 92} 个文件
+temp_to_filter: {'NEF': 148, 'JPG': 213} 个文件
